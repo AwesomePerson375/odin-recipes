@@ -1,4 +1,4 @@
-# The Odin Recipies
+# Odin Recipes
  Odin Recipes is a project that aims  to build a basic recipe website for practicing HTML knowledge that was aquired through learning HTML Foundations from The Odin Project.
 
  This website mainly consist of an index page which links to the three different recipes. 
@@ -11,6 +11,6 @@
 4. Creating links to pages
 5. Displaying Images on a webpage using HTML.
 
-##Credits
--[Wikipedia](https://en.wikipedia.org) (For Images and Descriptions for recipes)
--[Allrecipes](https://www.allrecipes.com/) (For Ingredients and Steps)
+## Credits
+- [Wikipedia](https://en.wikipedia.org) (For Images and Descriptions for recipes)
+- [Allrecipes](https://www.allrecipes.com/) (For Ingredients and Steps)
